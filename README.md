@@ -1,0 +1,1 @@
+Test angular project to explore some diff technologies. Nothing fancy.
